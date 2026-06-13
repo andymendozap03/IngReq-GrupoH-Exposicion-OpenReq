@@ -1,2 +1,6 @@
 # IngReq-GrupoH-Exposicion-OpenReq
-Repositorio para la exposición sobre la herramienta OpenReq.
+Grupo H - 4to Software "B"  
+CHAVARRIA CUENCA TAHINY MEL<br>
+MENDOZA PARRAGA ANDY JOHEL<br>
+SANCHEZ CORNEJO GARY ALBERTO<br>
+ZAMORA AGUILAR RONALDO WILFRIDO
